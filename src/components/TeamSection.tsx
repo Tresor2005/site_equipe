@@ -69,7 +69,7 @@ const teamMembers = [
     id: 10,
     name: "POLA TAGNE Emmanuel Celia",
     role: "Développeur Mobile",
-    photo: "src/Images/Celia.jfif",
+    photo: "https://github.com/Tresor2005/site_equipe/blob/main/src/Images/Celia.jfif",
     bio: "Développeur natif iOS et Android avec expertise en performances. Elle veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
