@@ -6,63 +6,63 @@ const teamMembers = [
     id: 1,
     name: "MKOUNGA TATCHUM Laurent joel",
     role: "Chef de Projet",
-    photo: "./src/Images/Joel.jfif",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/Joel.jfif",
     bio: "Expert en gestion de projet avec 6 mois d'expérience dans le développement mobile. Il veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile."
   },
   {
     id: 2,
     name: "TCHINDA Tresor Junior",
     role: "Développeur Lead",
-    photo: "./src/Images/Tresor.png",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/Tresor.png",
     bio: "Développeur passionné spécialisé en React Native et architecture mobile. Il veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
     id: 3,
     name: "CHEUTI WAWO Ruth Loveline",
     role: "Designer UX/UI",
-    photo: "src/Images/Ruth.png",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/Ruth.png",
     bio: "Créatrice d'expériences utilisateur exceptionnelles avec un œil pour le détail. Elle veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
     id: 4,
     name: "BETCHEM A KEDI Rene David",
     role: "Développeur Backend",
-    photo: "src/Images/David.jfif",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/David.jfif",
     bio: "Architecte backend expert en API et bases de données scalables. Il veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
     id: 5,
     name: "MOLO NDJODO Ines Melissa",
     role: "QA Engineer",
-    photo: "src/Images/Melissa.jfif",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/Melissa.jfif",
     bio: "Spécialiste qualité garantissant une expérience utilisateur parfaite. Elle veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
     id: 6,
     name: "MBALLA ELOUNDOU Dominique",
     role: "DevOps Engineer",
-    photo: "src/Images/Dominique.jfif",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/Dominique.jfif",
     bio: "Expert en infrastructure et déploiement continu pour applications mobiles. Il veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
     id: 7,
     name: "MENDOUGA Derode Valentin",
     role: "Développeur Frontend",
-    photo: "src/Images/valentin.png",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/valentin.png",
     bio: "Spécialiste React et interfaces utilisateur modernes et interactives. Il veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
     id: 8,
     name: "NOUBISSI KOUOKAM Jules Alain",
     role: "Architecte Logiciel",
-    photo: "src/Images/Jules.png",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/Jules.png",
     bio: "Expert en conception d'architectures robustes et évolutives. Il veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
     id: 9,
     name: "SINBAÏ Ezechiel",
     role: "Product Owner",
-    photo: "src/Images/Ezechiel.jfif",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/Ezechiel.jfif",
     bio: "Responsable produit orientée utilisateur et stratégie business. Il veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
@@ -76,7 +76,7 @@ const teamMembers = [
     id: 11,
     name: "MBANG BILOA Raphael Angelo",
     role: "Data Scientist",
-    photo: "src/Images/Raphael.jfif",
+    photo: "https://raw.githubusercontent.com/Tresor2005/site_equipe/refs/heads/main/src/Images/Raphael.jfif",
     bio: "Analyste de données spécialisée en intelligence artificielle et machine learning. Il veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
   },
   {
