@@ -112,7 +112,7 @@ const TeamSection = () => {
           {teamMembers.map((member) => (
             <TeamMemberCard key={member.id} member={member} />
           ))}
-        </div></center>
+        </div>
 
         {/* Nouvelle section : NOS PROJETS */}
         <div className="mt-16">
