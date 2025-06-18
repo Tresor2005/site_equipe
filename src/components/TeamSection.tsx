@@ -83,8 +83,14 @@ const teamMembers = [
     id: 12,
     name: "TSOMENE Leslie Olga",
     role: "Scrum Master",
-    photo: "https://images.unsplash.com/photo-1463453091185-61582044d556?w=400&h=400&fit=crop&crop=face",
+    photo: "https://media.istockphoto.com/id/1495088043/fr/vectoriel/ic%C3%B4ne-de-profil-utilisateur-avatar-ou-ic%C3%B4ne-de-personne-photo-de-profil-symbole-portrait.webp?s=2048x2048&w=is&k=20&c=m5Xw61esitYlBSQxzxT0hbHtFjVCl526qoLTX1vbvwk=",
     bio: "Facilitateur agile expert en méthodologies Scrum et amélioration continue. Elle veut valider son UE d'introduction à l'intelligence artificielle et à la programmation mobile"
+  },
+  {
+    id: 13,
+    name: "M. James AMENGUEL",
+    role: "Encadrant",
+    photo: "https://images.unsplash.com/photo-1463453091185-61582044d556?w=400&h=400&fit=crop&crop=face",
   }
 ];
 
