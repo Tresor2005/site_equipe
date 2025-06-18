@@ -88,9 +88,9 @@ const teamMembers = [
   },
   {
     id: 13,
-    name: "M. James AMENGUEL",
+    name: "M. James AMENGUELE",
     role: "Encadrant",
-    photo: "https://images.unsplash.com/photo-1463453091185-61582044d556?w=400&h=400&fit=crop&crop=face",
+    photo: "https://github.com/Tresor2005/site_equipe/blob/main/src/Images/Jamrs.png",
   }
 ];
 
