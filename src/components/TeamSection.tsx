@@ -108,11 +108,11 @@ const TeamSection = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+       <center> <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
           {teamMembers.map((member) => (
             <TeamMemberCard key={member.id} member={member} />
           ))}
-        </div>
+        </div></center>
 
         {/* Nouvelle section : NOS PROJETS */}
         <div className="mt-16">
